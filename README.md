@@ -1,4 +1,4 @@
-# EnergyConsumptionTariff
+# Energy Consumption Tariff
 
 
 This project implements a model to build up two tariffs and compare them based on their annual costs. 
